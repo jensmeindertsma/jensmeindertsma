@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the overgrown little garden 🌱 behind my digital cabin 🌲
+Welcome to the overgrown little garden 🌱 behind my digital cabin 🌲 where I keep and tend to all my projects!
 
 Thanks for taking the time to visit this place! Here are some things about me:
 
@@ -13,8 +13,7 @@ Thanks for taking the time to visit this place! Here are some things about me:
     - 🧗🏻‍♂️ Climbing
     - ⛰️ Hiking
     - 🏕️ Backpacking
-    - So, if you are into one of these activities, contact me!
-    - Maybe we can go on an adventure together!
+    - So, if you are into one of these activities, contact me! Maybe we can go on an adventure together!
 - 🎓 You see something interesting or unclear? Ask me, I'd love to help you learn!
 
 Now, please take a look around, and maybe you'll see something you like!
