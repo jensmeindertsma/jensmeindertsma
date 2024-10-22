@@ -13,6 +13,7 @@ Thanks for taking the time to visit this place! Here are some things about me:
     - 🧗🏻‍♂️ Climbing
     - ⛰️ Hiking
     - 🏕️ Backpacking
+    - 🚂 Travelling Europe by train
     - So, if you are into one of these activities, contact me! Maybe we can go on an adventure together!
 - 🎓 You see something interesting or unclear? Ask me, I'd love to help you learn!
 
