@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Welcome to the overgrown little garden 🌱 behind my digital cabin 🌲 where I keep and tend to all my projects!
-
 Thanks for taking the time to visit this place! Here are some things about me:
 
 - 🧑🏻‍💻 I recently completed a cybersecurity course (December 2024)
