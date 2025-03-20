@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my place on GitHub. Make sure to visit my website as well
+Welcome to my place on GitHub!
 
 - 🧑🏻‍💻 I recently completed a cybersecurity course (December 2024)
 - ✅ `Linux+`-certified by CompTIA
