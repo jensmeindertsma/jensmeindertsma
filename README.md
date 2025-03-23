@@ -2,7 +2,7 @@
 
 Welcome to my place on GitHub!
 
-- 🧑🏻‍💻 I recently completed a cybersecurity course (December 2024)
+- 🧑🏻‍💻 I recently completed a cybersecurity program at [ITvitae](https://itvitae.nl/) (December 2024), and I am now available for hire! Looking for a certified cyber security specialist? Please do reach out!
 - ✅ `Linux+`-certified by CompTIA
 
 - 👨🏻‍🎓 Studying for:
@@ -22,8 +22,8 @@ Welcome to my place on GitHub!
   - 🚂 Train traveling
 
 - 🏗️ What am I working on?
-
-  - ⛵ Building a deployment platform
-  - 🧪 Pwning more HackTheBox labs
+  - 🧪 Competing in Capture the Flag events on HackTheBox (see my website for my writeups!)
   - 📸 Building an digital library to store my trainspotting pictures
+  - 👨‍💻 Full stack web application development with React and JavaScript!
   - 🎅🏻 Completing all of the Advent of Code challenges
+  - ⛵ Building a deployment platform in Rust
