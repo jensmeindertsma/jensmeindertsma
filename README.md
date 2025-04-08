@@ -2,7 +2,7 @@
 
 Welcome to my place on GitHub!
 
-- 🧑🏻‍💻 I recently completed a cybersecurity program at [ITvitae](https://itvitae.nl/) (December 2024), and I am now available for hire! Looking for a certified cyber security specialist? Please do reach out!
+- 🧑🏻‍💻 I recently completed a cybersecurity program at [ITvitae](https://itvitae.nl/) (December 2024), and I am now looking for a job as a cyber security specialist! Hiring? Please do reach out!
 - ✅ `Linux+`-certified by CompTIA
 
 - 👨🏻‍🎓 Studying for:
