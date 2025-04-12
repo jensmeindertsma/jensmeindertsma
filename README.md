@@ -27,3 +27,5 @@ Welcome to my place on GitHub!
   - 👨‍💻 Full stack web application development with React and JavaScript!
   - 🎅🏻 Completing all of the Advent of Code challenges
   - ⛵ Building a deployment platform in Rust
+
+*Check out [jensmeindertsma.com](https://jensmeindertsma.com/) for all my written content! I've made posts, CTF writeups, HackTheBox walkthroughs and more!
