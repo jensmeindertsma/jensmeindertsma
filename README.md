@@ -1,31 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
 Welcome to my place on GitHub!
 
-- 🧑🏻‍💻 I recently completed a cybersecurity program at [ITvitae](https://itvitae.nl/) (December 2024), and I am now looking for a job as a cyber security specialist! Hiring? Please do reach out!
-- ✅ `Linux+`-certified by CompTIA
+## Who am I?
 
-- 👨🏻‍🎓 Studying for:
+- Full-stack web developer
+- Aspiring penetration tester
 
-  - Comptia `PenTest+`
-  - CompTIA `Advanced Security Practitioner`
-  - HackTheBox `Certified Penetration Testing Specialist`
+## Qualifications
 
-- 🌲 My favorite activities include:
+- ✅ Cybersecurity Specialist graduated December 2024 at [ITvitae](https://itvitae.nl/)
+- ✅ CompTIA Linux+ (`XK0-005`)
+- 👨🏻‍🎓 CompTIA PenTest+ (`PT0-003`)
+- 👨🏻‍🎓 CompTIA SecurityX (`CAS-005`)
 
-  - 🏃‍♂️ Running
-  - 🚴🏻‍♂️ Mountainbiking
-  - ⛰️ Hiking
-  - ⛷️ Skiing
-  - 🧗🏻‍♂️ Climbing
-  - 🏕️ Backpacking
-  - 🚂 Train traveling
+## Experience
 
-- 🏗️ What am I working on?
-  - 🧪 Competing in Capture the Flag events on HackTheBox (see my website for my writeups!)
-  - 📸 Building an digital library to store my trainspotting pictures
-  - 👨‍💻 Full stack web application development with React and JavaScript!
-  - 🎅🏻 Completing all of the Advent of Code challenges
-  - ⛵ Building a deployment platform in Rust
+- 5+ years of experience building full-stack web application using several React-based frameworks.
+- 2 years of penetration testing experience on the [HackTheBox](https://www.hackthebox.com/) platform.
 
-**Check out [jensmeindertsma.com](https://jensmeindertsma.com/) for all my written content! I've made posts, CTF writeups, HackTheBox walkthroughs and more!**
+I am working my way through the necessary [HackTheBox Academy](https://academy.hackthebox.com/) modules required to pass their `Certified Penetration Testing Specialist (CPTS)` exam. In the future I plan to acquire their advanced certifications as well.
+
+## Personal
+
+I am a frequent runner, hiker and outdoor enthousiast. I'm very interested in infrastructure topics such as trains, planes, airports and rail networks. I like to travel, and whether it's summer or winter, I always find my way to the mountains, to go skiing or backpacking through the Alps.
