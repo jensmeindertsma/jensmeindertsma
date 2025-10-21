@@ -11,8 +11,8 @@ Welcome to my place on GitHub!
 
 - ✅ Cybersecurity Specialist graduated December 2024 at [ITvitae](https://itvitae.nl/) (**available for hire!**)
 - ✅ CompTIA Linux+ (`XK0-005`)
-- 👨🏻‍🎓 CompTIA PenTest+ (`PT0-003`)
-- 👨🏻‍🎓 CompTIA SecurityX (`CAS-005`)
+- 🏗️ CompTIA PenTest+ (`PT0-003`)
+- 🏗️ CompTIA SecurityX (`CAS-005`)
 
 ## Experience
 
